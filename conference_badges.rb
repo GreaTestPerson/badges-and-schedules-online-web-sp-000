@@ -1,6 +1,6 @@
 # Write your code here.
 def bagde_maker(name)
- put "Hello, my name is #{name}"
+ put "Hello, my name is #{name}. "
 end
 
 # def batch_badge_creator
