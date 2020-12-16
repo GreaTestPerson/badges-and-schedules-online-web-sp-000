@@ -1,4 +1,5 @@
 # Write your code here.
 def bagde_maker
- put 
+  name = []
+ put "Hello, my name is #{}"
 end
